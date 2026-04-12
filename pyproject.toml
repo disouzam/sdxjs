@@ -20,6 +20,6 @@ skips = [
     "*.slice.out",
     "*.tll",
     "bin/**",
-    "static/**",
+    "docs/**",
     "x-*",
 ]
